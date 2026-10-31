@@ -28,7 +28,7 @@ MyCelium Discord server, and anywhere you represent the project.
 ## Reporting
 
 Email **mycelium.gg@gmail.com**, or message a moderator on
-[Discord](https://discord.gg/8qgVgy526). Reports are read by the maintainers
+[Discord](https://discord.gg/UvQNsKWMp3). Reports are read by the maintainers
 and kept private.
 
 Maintainers may remove comments, lock threads, or block people from the

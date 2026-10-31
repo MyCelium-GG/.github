@@ -15,7 +15,7 @@ Every repository in [MyCelium-GG](https://github.com/MyCelium-GG) follows this g
    - the dump link;
    - whether it happens with only Mycel and that mod installed.
 
-Questions and ideas are welcome on [Discord](https://discord.gg/8qgVgy526) too.
+Questions and ideas are welcome on [Discord](https://discord.gg/UvQNsKWMp3) too.
 
 ## Suggesting a feature
 
